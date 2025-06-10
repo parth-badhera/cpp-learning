@@ -11,11 +11,6 @@ int main(){
     cout<<"\nThis is how we print \"and this is in double quote\" \n  ";
 
 
-    bool a = true;
-    cout<<a;           // 1 will printed
-    cout<<std::boolalpha;
-    cout<<a<<"\n";
-    cout<<noboolalpha;
-    cout<<a;
+    
     return 0;
 }
